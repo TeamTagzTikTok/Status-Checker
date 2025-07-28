@@ -13,16 +13,6 @@ A status python script which can send a message to a webhook when a ip goes offl
 
 ```irm https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe -OutFile python.exe; Start-Process python.exe -ArgumentList '/quiet InstallAllUsers=1 PrependPath=1' -Wait; Remove-Item python.exe```
 
-## Install extentions
-
-**Linux**
-
-```python3 -m pip install -r extentions.txt```
-
-**Windows**
-
-```pip install -r extentions.txt```
-
 ## Run the checker
 
 **Linux**
