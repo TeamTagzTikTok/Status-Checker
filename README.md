@@ -35,4 +35,4 @@ A status python script which can send a message to a webhook when a ip goes offl
 
 **5**. Customisable
 
-**6**. Works amazing with discord
+**6**. Works With Discord
